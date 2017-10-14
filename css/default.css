@@ -1,0 +1,44 @@
+body {
+}
+
+.section {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+header {
+	margin: 10px;
+}
+
+@font-face {
+    font-family: neo-latina;
+    src: url('neo-latina.ttf');
+}
+
+.container {
+	border: 0px solid;
+}
+
+.display-3 {
+  color: #781212;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #781212;
+  border-color: #781212;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #781212;
+  border-color: #781212;
+}
+
+.nav-item {
+	font-family: neo-latina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+;
+}
+
+
